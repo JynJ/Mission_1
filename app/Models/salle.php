@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class salle extends Model
 {
     use HasFactory;
-    public $timestamp = false;
+    public $timestamps = false;
 }
 
 

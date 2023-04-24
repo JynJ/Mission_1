@@ -61,7 +61,7 @@ class SalleController extends Controller
 
         
 
-
+        $salle->save();
 
 
 
